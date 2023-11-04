@@ -1,6 +1,6 @@
 # Zerli-Project
 
-### (client side, server side), during the course of studies that talks about developing an information system to the flower shops, using Java and JavaFX and workbench with eclipse
+ (client side, server side), during the course of studies that talks about developing an information system to the flower shops, using Java and JavaFX and workbench with eclipse
 OBL_ Project Team Members:
 
 Majd Zbedat
