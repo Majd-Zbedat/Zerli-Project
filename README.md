@@ -4,12 +4,16 @@
 OBL_ Project Team Members:
 
 Majd Zbedat,
+
 Rani Khori,
+
 Hani Zhran,
+
 Othman Habib,
+
 Laith Sadik,
 
-Semester B 2022 Software Engineering Project.
+### Semester B 2022 Software Engineering Project.
 
 Server.jar instructions: go with CMD to the sever jar location.
 
@@ -23,7 +27,7 @@ Client.jar instructions:
 
 go with CMD to the sever jar location.
 
-type in the following:
+### type in the following:
 
 java -jar Client.jar .jar
 private final static String SQL_HOST = "";
